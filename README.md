@@ -1,7 +1,9 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
 ## Student Details
+
 Full Name: Huayu Zhao
+
 CCID: huayu2
 
 ## References and Resources Student Details
