@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/kotlin/how-to-send-data-from-activity-to-fragment-in-android/
 
 ## Verbal Collaboration
 
